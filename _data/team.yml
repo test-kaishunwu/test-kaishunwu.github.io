@@ -1,0 +1,193 @@
+# Faculty:
+#   - name: "Salabat Khan"
+#     name_cn:
+#     avatar: "salabatkhan.jpg"
+#     research_direction: "Security and Privacy in Mobile Computing"
+#     admission: "2024.02 ~"
+#     homepage:
+
+Postdoc:
+  - name: "Qingxin XIA"
+    name_cn: "夏清心"
+    avatar: "qingxinxia.jpg"
+    research_direction: "Ubiquitous Computing and Mobile Sensing"
+    admission: "2023.12 ~"
+    homepage: https://qingxinxia.github.io/
+
+  - name: "Usman Saleh Toro"
+    name_cn: "奥司马"
+    avatar: "usmansalehtoro.jpg"
+    research_direction: "Wearable Ultrasound Devices, Backscatter Communication, Low power IoT"
+    admission: "2024.09 ~"
+    homepage:
+
+Ph.D Students:
+  - name: "Yandao HUANG"
+    name_cn: "黄彦道"
+    avatar: "yandaohuang.jpg"
+    research_direction: "e-Health"
+    admission: "2021 Fall ~"
+    homepage: "https://island520.github.io/"
+
+  - name: "Yongzhi HUANG"
+    name_cn: "黄勇志"
+    avatar: "yongzhihuang.jpg"
+    research_direction: "Areas of Ubiquitous Computing, Wisdom Healthcare, Human-computer Interaction, and Wireless Communication"
+    admission: "2022 Fall ~"
+    homepage: "https://www.huangyongzhi.com.cn/"
+
+  - name: "Minghui QIU"
+    name_cn: "邱铭辉"
+    avatar: "minghuiqiu.jpg"
+    research_direction: "Human Computer Interaction, Mobile Computing, Wearable Sensing"
+    admission: "2022 Fall ~"
+    homepage:
+
+  - name: "Lin CHEN"
+    name_cn: "陈林"
+    avatar: "linchen.jpg"
+    research_direction: "Healthcare, Sensing, AI"
+    admission: "2022 Fall ~"
+    homepage: "https://leenc.cn"
+
+  - name: "Yufei WEN"
+    name_cn: "文宇飞"
+    avatar: "yufeiwen.jpg"
+    research_direction: "AI4Health CV HSI"
+    admission: "2023 Fall ~"
+    homepage:
+
+  - name: "Yuhang WANG"
+    name_cn: "王宇航"
+    avatar: "yuhangwang.jpg"
+    research_direction: "Optimization and Application of Reinforcement Learning and Convex Optimization in Wireless Communications"
+    admission: "2023 Fall ~"
+    homepage:
+
+  - name: "Yuying WAN"
+    name_cn: "万钰滢"
+    avatar: "yuyingwan.jpg"
+    research_direction: "Digital Health/Human Welfare"
+    admission: "2023 Fall ~"
+    homepage:
+
+  - name: "Ziyang LIU"
+    name_cn: "刘子扬"
+    avatar: "ziyangliu.jpg"
+    research_direction: "Smart Sensing, AIoT"
+    admission: "2024 Fall ~"
+    homepage:
+
+  - name: "Jun CHEN"
+    name_cn: "陈骏"
+    avatar: "junchen.jpg"
+    research_direction: "Multimodal, Data-driven Machine Learning, AIoT"
+    admission: "2024 Fall ~"
+    homepage:
+
+  - name: "Peixuan XIONG"
+    name_cn: "熊培轩"
+    avatar: "peixuanxiong.jpg"
+    research_direction: "VR, Accessibility, Stroke Rehabilitation"
+    admission: "2024 Fall ~"
+    co: "Prof. Mingming Fan"
+    homepage:
+
+  - name: "Yuanyuan FANG"
+    name_cn: "方圆圆"
+    avatar: "yuanyuanfang.jpg"
+    research_direction: "Artificial Intelligence, Computer Vision, Large Models, Medical Intelligent Technology, Intelligent Interaction Technology, VR/AR"
+    admission: "2024 Fall ~"
+    homepage:
+
+  - name: "Yuting ZHANG"
+    name_cn: "张雨婷"
+    avatar: "yutingzhang.jpg"
+    research_direction: "rPPG, Computer Vision, Medical LLM, Time Series Analysis"
+    admission: "2024 Fall ~"
+    homepage:
+
+  - name: "Eric"
+    name_cn: "徐康庭"
+    avatar: "kangtingxu.jpg"
+    research_direction: "RAG"
+    admission: "2024 Fall ~"
+    homepage:
+
+  - name: "Kaixin CHEN"
+    name_cn: "陈凯鑫"
+    avatar: "kaixinchen.jpg"
+    research_direction: "Intelligent Sensing, Smart Health"
+    admission: "2024 Fall ~"
+    homepage:
+
+  - name: "Cheng LUO"
+    name_cn: "罗程"
+    avatar: "chengluo.jpg"
+    research_direction: "Smart medical platform"
+    admission: "2024 Fall ~"
+    homepage:
+
+  - name: "Cong LI"
+    name_cn: "李聪"
+    avatar: "congli.jpg"
+    research_direction: "e-Health"
+    admission: "2025 Spring ~"
+    homepage:
+
+MPhil Students:
+  - name: "Zihan ZHANG"
+    name_cn: "张梓涵"
+    avatar: "zihanzhang.jpg"
+    research_direction: "Human Activity Recognition, Human-Computer Interaction"
+    admission: "2023 Fall ~"
+    homepage:
+
+  - name: "Chunzhen GUO"
+    name_cn: "郭纯真"
+    avatar: "chunzhenguo.jpg"
+    research_direction: "Health Monitoring"
+    admission: "2023 Fall ~"
+    homepage:
+
+  - name: "Yee WAN"
+    name_cn: "王熠"
+    avatar: "yeewan.jpg"
+    research_direction: "Timing signal analysis, multimodal"
+    admission: "2023 Fall ~"
+    homepage:
+
+  - name: "Zipei PAN"
+    name_cn: "潘梓沛"
+    avatar: "zipeipan.jpg"
+    research_direction: "Motion Recognition based on Millimeter Wave Radar"
+    admission: "2023 Fall ~"
+    homepage:
+
+  - name: "Zirui HUANG"
+    name_cn: "黄孜睿"
+    avatar: "ziruihuang.jpg"
+    research_direction: "Healthcare Sensing, Biomedical Devices, Wearable Sensors"
+    admission: "2023 Fall ~"
+    homepage:
+
+  - name: "Keyu ZHANG"
+    name_cn: "张珂宇"
+    avatar: "keyuzhang.jpg"
+    research_direction: "Sensing, Inclusive Design"
+    admission: "2023 Fall ~"
+    homepage:
+
+  - name: "Chaoyi YUAN"
+    name_cn: "袁超毅"
+    avatar: "chaoyiyuan.jpg"
+    research_direction: "HCI and Wearable Devices"
+    admission: "2023 Fall ~"
+    homepage:
+
+  - name: "Jimmy LIN"
+    name_cn: "林晋宇"
+    avatar: "jimmylin.jpg"
+    research_direction: "Wearable Hardware Design and IOT Device Security"
+    admission: "2024 Fall ~"
+    homepage:
